@@ -1,2 +1,2 @@
-# fogoldjewelry-website
+fogoldjewelry-website
 COMPANY 
